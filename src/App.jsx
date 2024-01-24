@@ -1,7 +1,4 @@
 import { useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
 import ThemeBtn from './components/ThemeBtn'
 import { ThemeProvider } from './context/theme'
 import Question from './components/Question'
